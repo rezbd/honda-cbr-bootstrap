@@ -24,3 +24,15 @@
 #top-banner img{
     width: 90%;
 }
+
+.btn-banner {
+    width: 168px;
+    height: 44px;
+    background-color: #E76F51;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
