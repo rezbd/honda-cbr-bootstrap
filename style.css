@@ -1,0 +1,26 @@
+
+
+/* banner section */
+.sm-paragrpah{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+}
+
+.header-paragraph{
+    color: #E0E0E0;
+}
+
+#top-banner h1{
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 72px;
+}
+
+#top-banner .row{
+    background-color: #264653;
+}
+
+#top-banner img{
+    width: 90%;
+}
