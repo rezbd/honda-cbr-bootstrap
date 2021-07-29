@@ -104,3 +104,15 @@ body{
 #feedback .container{
     width: 85%;
 }
+
+/* **********
+ FAQ Section
+************ */
+
+.faq-img{
+    width: 70%;
+}
+.faq-text{
+    color: #7E848C;
+    font-size: 16px;
+}
