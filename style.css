@@ -46,13 +46,6 @@ body{
     filter: grayscale(100%);
 }
 
-#featured-bikes h1{
-    /* font-weight: 600; */
-    /* font-size: 48px; */
-    /* width: 80%; */
-    /* line-height: 72px; */
-}
-
 #featured-bikes p{
     color: #E76F51;
     font-weight: 600;
