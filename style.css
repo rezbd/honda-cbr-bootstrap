@@ -8,29 +8,29 @@ body{
 
 /* banner section */
 .sm-paragrpah{
-    font-size: 14px;
-    font-weight: 300;
-    line-height: 22px;
+    font-size: 12px;
+    /* font-weight: 300; */
+    /* line-height: 22px; */
 }
 
 .header-paragraph{
     color: #E0E0E0;
-    font-size: 16px;
-    font-weight: 300;
-    line-height: 24px;
+    /* font-size: 16px; */
+    /* font-weight: 300; */
+    /* line-height: 24px; */
 }
 
-#top-banner h1{
-    font-size: 48px;
-    font-weight: 600;
-    line-height: 72px;
+.banner h1{
+    /* font-size: 48px; */
+    /* font-weight: 600; */
+    /* line-height: 72px; */
 }
 
-#top-banner .row{
+.banner {
     background-color: #264653;
 }
 
-#top-banner img{
+.banner img{
     width: 90%;
 }
 
@@ -52,8 +52,9 @@ body{
 }
 
 #featured-bikes h1{
-    font-weight: 600;
-    font-size: 48px;
+    /* font-weight: 600; */
+    /* font-size: 48px; */
+    /* width: 80%; */
     /* line-height: 72px; */
 }
 
@@ -62,4 +63,44 @@ body{
     font-weight: 600;
     font-size: 14px;
     line-height: 21px;
+}
+
+/* ***************
+ Feedback Section 
+******************/
+
+.orange-text{
+    color: #E76F51;
+}
+
+.client-image{
+    width: 60%;
+}
+
+.client-comments{
+    color: #6C6C6C;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.2px;
+}
+
+.filled {
+    color: #E76F51;
+}
+.empty{
+    color: #E76F51;
+}
+.feedback-names{
+    color: #23A6F0;
+    font-weight: 600;
+    font-size: 14px;
+}
+.occupation{
+    color: #252B42;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+#feedback .container{
+    width: 85%;
 }
