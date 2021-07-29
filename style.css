@@ -55,6 +55,10 @@ Featured Bike Section
     filter: grayscale(100%);
 }
 
+#featured-bikes{
+    margin-top: 7rem;
+}
+
 #featured-bikes p{
     color: #E76F51;
     font-weight: 600;
@@ -65,6 +69,13 @@ Featured Bike Section
 /* ***************
  Feedback Section 
 ******************/
+#feedback{
+    margin-top: 7rem;
+}
+
+#feedback .container{
+    width: 85%;
+}
 
 .orange-text{
     color: #E76F51;
@@ -98,13 +109,13 @@ Featured Bike Section
     font-size: 14px;
 }
 
-#feedback .container{
-    width: 85%;
-}
 
 /* **********
  FAQ Section
 ************ */
+#faq{
+    margin-top: 7rem;
+}
 
 .faq-img{
     width: 70%;
@@ -117,6 +128,10 @@ Featured Bike Section
 /* ***********
 Stats Section 
 ***************/
+#stats{
+    margin-top: 7rem;
+}
+
 .bg-stats{
     background-color: #f5f5f5;
     border-radius: 10px;
@@ -142,6 +157,7 @@ Stats Section
 /* ***************
 Membership Section
 ****************** */
-#membership p{
-    color: ;
+#membership{
+    margin-top: 7rem;
+    margin-bottom: 7rem;
 }
