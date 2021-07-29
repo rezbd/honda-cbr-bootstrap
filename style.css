@@ -128,6 +128,13 @@ Stats Section
     color: #d54d7b;
 }
 
+.stats-header-p{
+    color: #6C6C6C;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.2px;
+}
+
 .stats-p{
     color: #7a8181;
 }
@@ -135,6 +142,6 @@ Stats Section
 /* ***************
 Membership Section
 ****************** */
-#membership{
-    background-color: thistle;
+#membership p{
+    color: ;
 }
